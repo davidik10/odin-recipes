@@ -1,0 +1,23 @@
+* {
+    background-color: rgb(225, 229, 102);
+    
+}
+
+text:hover {
+    cursor: pointer;
+}
+
+h1, a {
+   text-align: center; 
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: rgb(244, 3, 3);
+    
+}
+
+h1 {
+    color: rgb(74, 5, 123);
+    font-size: xxx-large;
+}
